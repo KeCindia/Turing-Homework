@@ -1,4 +1,0 @@
-var hi:string
-put "what is the thing"
-get hi
-put hi
